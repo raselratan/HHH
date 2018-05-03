@@ -1,7 +1,7 @@
 <!DOCTYPE html> 
 <html>
 	<head>
-		<title>Home Management System</title>	
+		<title>Home Management </title>	
 		<link href="user/files/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
 		<link href="user/files/css/style.css" rel="stylesheet" id="bootstrap-css">
 		<script src="user/files/js/jquery-1.11.1.min.js"></script>		
